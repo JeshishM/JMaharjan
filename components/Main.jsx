@@ -18,7 +18,7 @@ const Main = () => {
           {/* #5651e7 */}
           <h1 className='py-2 text-black-700'>A Front-End Web Developer </h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-            I'm focused on building responsive front-end web applications
+            I&#39;m focused on building responsive front-end web applications
             integrating back-end technologies.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
