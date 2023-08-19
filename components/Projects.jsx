@@ -37,7 +37,7 @@ const Projects = () => {
 
           />
           <ProjectItem
-            title='Web Services Business'
+            title='Web Services'
             backgroundImg={softupImg}
             projectUrl='/softup'
             tech='React JS'
