@@ -25,7 +25,7 @@ const About = () => {
           <p className='py-2 text-gray-600'>
             I started my web development journey since 2020. After achieving my full-stack development course, I started working in multiple websites on CMS platforms such as WordPress, GoDaddy ,Shopify and Frameworks like React JS, Vue JS, and Next JS. I have experience working directly with clients and taking mock wireframes all the way to deployed applications. 
           </p>
-          <p className='py-2 text-gray-600'>In my spare time I re-charge my brain by read books, go for exercise, play music instruments mostly guitar & keys and get back to my web projects again. I believe in Discipline, Motivation, and Consistency.</p>
+          <p className='py-2 text-gray-600'>In my spare time I re-charge my brain by read books, go for exercise, play music instrument mostly guitar & keys and get back to my web projects again. I believe in Discipline, Motivation, and Consistency.</p>
             
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
