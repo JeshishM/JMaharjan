@@ -4,7 +4,7 @@ import softupImg from '../public/assets/projects/softup.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const twitch = () => {
+const softup = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[50vh] relative'>
@@ -27,13 +27,11 @@ const twitch = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This appplication was built using NEXT.JS and is styled with
-            Tailwind CSS. The application is hosted statically using Vercel.
-            This is a mobile responsive recreation of Twitch.tv and features
-            Next/Auth.js for authentication. Users may choose to be
-            authenticated with either a Github account or a Google account. A
-            few features to note with this project are lazy loading images using
-            the Image component, built in routing, and Next/Auth Context.
+            This website is built using React JS and is styled with
+            chunk CSS. The application is hosted statically using CloudFlare.
+            This is a mobile responsive and features
+            firebase for authentication. Users may choose to be
+            authenticated with either a softup account or a Google account.
           </p>
           <a
             href='https://softup.io/'
@@ -84,4 +82,4 @@ const twitch = () => {
   );
 };
 
-export default twitch;
+export default softup;

@@ -4,7 +4,7 @@ import redemptionImg from '../public/assets/projects/redemption.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const property = () => {
+const redemption = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[50vh] relative'>
@@ -27,15 +27,9 @@ const property = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This website was built using GoDaddy CMS and is hosted on GoDaddy. Users
-            are able to get help search properties based on an Address, City, or ZIP code
-            to retrieve a list of active properties currently for sale. You will
-            be able to view property information as well as the specific
-            location of the property integrated with the Google Maps API. User
-            authentication is available so you can signup and signin to your
-            account with an email address in order to save your favorite
-            properties. This is made possible with Zillow API.
+          The website, designed and crafted using GoDaddy Website Builder, ensures a user-friendly experience, with a focus on meeting user needs. In the development process, our team generated numerous ideas along with corresponding questions and answers, employing the Design Kit Methods. This toolkit proved invaluable for conducting UX research. Subsequently, I conceptualized prototypes for the required product. In the case of this website, Adobe XD was utilized to create multiple sample layouts for the final product. As the site is being constructed within the GoDaddy CMS, the intuitive layout has enabled visitors to easily locate the information, resources, and support they are seeking.
           </p>
+
           {/* <a
             href='https://github.com/fireclint/property-finder'
             target='_blank'
@@ -84,4 +78,4 @@ const property = () => {
   );
 };
 
-export default property;
+export default redemption;

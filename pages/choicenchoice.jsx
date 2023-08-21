@@ -4,7 +4,7 @@ import choicenchoiceImg from '../public/assets/projects/choicenchoice.jpg';
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
-const crypto = () => {
+const choicenchoice = () => {
   return (
     <div className='w-full'>
       <div className='w-screen h-[50vh] relative'>
@@ -26,16 +26,7 @@ const crypto = () => {
         <div className='col-span-4'>
           <p>Project</p>
           <h2>Overview</h2>
-          <p>
-            I built this app to demonstrate knowledge working in React JS and
-            accessing API endpoints. This app was built using React JS and is
-            hosted on Firebase. This application supports user authentication
-            using firebase. Users are able to create a new account using their
-            email address and can then sign in to save coins to a user specific
-            list. This is made possble by creating a firestore cloud storage
-            database at the time of user registration. Another feature of this
-            application is dynamic routing through the &quot;React Router DOM&quot;
-            package. This application was built using the Coin Gecko API.
+          <p> The website, powered by Shopify, boasts an intuitive and user-friendly interface. Easily browse categories, filter by brands, and compare options to find your perfect match without hassle. To dive into detailed product pages, I have to generate an idea for how it should look and would be easy access to users. The layout is completed with high-quality images, specifications, and comprehensive descriptions with my research. With the robust security features of Shopify, we made clients to shop with confidence. The sensitive information is protected, ensuring a safe and secure shopping experience. Whether you're shopping from your computer, tablet, or smartphone, the website's responsive design ensures a seamless and enjoyable shopping experience on any device. Shopify's streamlined checkout process allows clients to breeze through your purchase, saving you time and ensuring a hassle-free transaction.
           </p>
           {/* <a
             href='https://github.com/fireclint/crypto-react-firebase'
@@ -86,4 +77,4 @@ const crypto = () => {
   );
 };
 
-export default crypto;
+export default choicenchoice;
