@@ -16,20 +16,17 @@ const About = () => {
             I specialize in building mobile responsive front-end UI applications
             that connect with API’s and other backend technologies. I’m
             passionate about learning new technologies and understand there is
-            more than one way to accomplish a task. Though I am most proficient
+            more than one way to accomplish a task. Though I am not most proficient
             in building front-end applications using HTML, CSS, Javascript, and
             React, I am a quick learner and can pick up new tech stacks as
             needed. I believe that being a great developer is not using one
             specific language, but choosing the best tool for the job.
           </p>
           <p className='py-2 text-gray-600'>
-            I started web development in 2019 managing multiple business
-            websites on CMS platforms such as WordPress, GoDaddy, React, and
-            Shopify. I have experience working directly with clients and taking
-            mock wireframes all the way to deployed applications. In my spare
-            time I run code commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
+            I started my web development journey since 2020. After achieving my full-stack development course, I started working in multiple websites on CMS platforms such as WordPress, GoDaddy ,Shopify and Frameworks like React JS, Vue JS, and Next JS. I have experience working directly with clients and taking mock wireframes all the way to deployed applications. 
           </p>
+          <p className='py-2 text-gray-600'>In my spare time I re-charge my brain by read books, go for exercise, play music instruments mostly guitar & keys and get back to my web projects again. I believe in Discipline, Motivation, and Consistency.</p>
+            
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
               Check out some of my latest projects.
