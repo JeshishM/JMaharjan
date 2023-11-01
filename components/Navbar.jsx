@@ -81,7 +81,7 @@ const Navbar = () => {
               <Link href='/#projects'>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/resume'>Resume</Link>
+              <Link href='https://drive.google.com/drive/folders/1e_7L7T83_sL9gLRw0tzzBET_GZfjsWDQ'>Resume</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link href='/#contact'>Contact</Link>
@@ -160,7 +160,7 @@ const Navbar = () => {
                   Projects
                 </li>
               </Link>
-              <Link href='/resume'>
+              <Link href='https://drive.google.com/drive/folders/1e_7L7T83_sL9gLRw0tzzBET_GZfjsWDQ'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Resume
                 </li>
@@ -177,7 +177,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                  href='https://www.linkedin.com/in/jeshish-maharjan-67833717b/'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -186,7 +186,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/JeshishM'
                   target='_blank'
                   rel='noreferrer'
                 >
