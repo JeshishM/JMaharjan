@@ -46,6 +46,10 @@ html {
     color: #5651e7;
 }
 
+.resume{
+  target: "_blank"
+}
+
 /* a{
   text-decoration: none;
 } */
