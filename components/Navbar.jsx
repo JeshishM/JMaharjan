@@ -162,6 +162,7 @@ const Navbar = () => {
                 </li>
               </Link>
               <Link href='https://drive.google.com/file/d/1fBLQxbVtzosEfjhFpVbQCNvimORH-z7s/view'>
+                 
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                 <a target="_blank">Resume</a>
                 </li>
