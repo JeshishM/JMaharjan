@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Jeshish | Front-End Developer</title>
+        <title>Jeshish | Product Designer & Developer</title>
         <meta name="description" content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences." />
         <link rel="icon" href="/JMfavicon.png" />
       </Head>
