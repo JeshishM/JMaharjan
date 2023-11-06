@@ -13,7 +13,8 @@ const Main = () => {
             LET&#39;S BUILD SOMETHING TOGETHER
           </p>
           <h1 className='py-4 text-gray-700'>
-            Hi, I&#39;m <span className='text-[#5651e5]'> Jeshish </span>
+            Hi, I&#39;m <span className='text-[#ee7c39]'> Jeshish </span>
+            {/* text-[#5651e5] */}
           </h1>
           <h1 className='py-2 text-black-700'>A Product designer and developer </h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
@@ -55,7 +56,7 @@ const Main = () => {
                     </div>
                   </a> */}
 
-             <Link href='https://drive.google.com/file/d/1fBLQxbVtzosEfjhFpVbQCNvimORH-z7s/view'>
+             <Link href='https://drive.google.com/file/d/15PL-o_looxriGbrIJb4Ys7lnigZtaXV1/view'>
                 <a target='_blank'>     
                   <div className='resume rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer    hover:scale-110 ease-in duration-300'>
                       <BsFillPersonLinesFill />

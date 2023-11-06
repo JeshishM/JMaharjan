@@ -81,7 +81,7 @@ const Navbar = () => {
               <Link href='/#projects'>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='https://drive.google.com/file/d/1fBLQxbVtzosEfjhFpVbQCNvimORH-z7s/view'> 
+              <Link href='https://drive.google.com/file/d/15PL-o_looxriGbrIJb4Ys7lnigZtaXV1/view'> 
               <a target="_blank">Resume</a></Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
@@ -161,7 +161,7 @@ const Navbar = () => {
                   Projects
                 </li>
               </Link>
-              <Link href='https://drive.google.com/file/d/1fBLQxbVtzosEfjhFpVbQCNvimORH-z7s/view'>
+              <Link href='https://drive.google.com/file/d/15PL-o_looxriGbrIJb4Ys7lnigZtaXV1/view'>
                  
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                 <a target="_blank">Resume</a>
@@ -204,7 +204,7 @@ const Navbar = () => {
                     <AiOutlineMail />
                   </div>
                 </Link>
-                <Link href='https://drive.google.com/file/d/1fBLQxbVtzosEfjhFpVbQCNvimORH-z7s/view'>
+                <Link href='https://drive.google.com/file/d/15PL-o_looxriGbrIJb4Ys7lnigZtaXV1/view'>
                   <div
                     onClick={() => setNav(!nav)}
                     className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'
