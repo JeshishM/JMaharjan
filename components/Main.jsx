@@ -16,7 +16,7 @@ const Main = () => {
             Hi, I&#39;m <span className='text-[#ee7c39]'> Jeshish </span>
             {/* text-[#5651e5] */}
           </h1>
-          <h1 className='py-2 text-black-700'>A Product designer and developer </h1>
+          <h1 className='py-2 text-black-700'>A Product Designer and Developer </h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
             I&#39;m focused on building intuitive design and integrate a responsive front-end web applications.
           </p>
