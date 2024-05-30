@@ -175,9 +175,9 @@ const Navbar = () => {
             </ul>
             <div className='pt-35'>
               <p className='uppercase tracking-widest text-[#5651e5]'>
-                Let&#39;s Connect
+                Let&#39;s Connect to me
               </p>
-              <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
+              <div className='flex items-center justify-between my-4 w-full sm:w-[50%]'>
                 <a
                   href='https://www.linkedin.com/in/jeshish-maharjan-67833717b/'
                   target='_blank'

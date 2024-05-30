@@ -17,7 +17,10 @@ const About = () => {
           </p>
           <h2 className='py-4'>I am focused.</h2>
           <p className='py-2 text-gray-600'>
-            I started my web development journey since 2020. I have obtained Full Stack Web Development certificate in Santa Rosa Junior College. In the process, I started working with clients using CMS platforms such as WordPress, GoDaddy ,Wix, Shopify and also used HTML, CSS, JavaScript, Bootstrap, React JS, Vue JS, and Next JS to build a full functional websites. I am recognized and appreciated with my skills I did. My way of thinking and executing the ideas is profound. I want to help you next to create your business in digital market. 
+            I started my web development journey since 2020. I have obtained Full Stack Web Development certificate in Santa Rosa Junior College. In the process, I started working with clients using CMS platforms such as WordPress, GoDaddy ,Wix, Shopify and also used HTML, CSS, JavaScript, Bootstrap, React JS, Vue JS, and Next JS to build a full functional websites. I am recognized and appreciated for my chores. <br /> <br />
+            I always try to get better than yesterday. 
+            The most important ability I have acquired in this journey of web development is how to bring an idea into design and turn that whole design into a real product to the world where users can use it for . Now this is the time to help you next to create your functional website for the growth of your business. <br /> <br />
+            Feel free to reach me out.
           </p>
           <p className='py-2 text-gray-600'> Besides designing and developing, I spend my breaks reading books, exercise, play soccer, and play guitar & keys and get back to my projects again. I believe in Discipline, Motivation, and Consistency.</p>
             
